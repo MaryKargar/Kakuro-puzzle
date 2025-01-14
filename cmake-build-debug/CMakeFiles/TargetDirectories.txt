@@ -1,0 +1,3 @@
+C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Evolutionary and Logic-based AI/2/Kakuro problem/cmake-build-debug/CMakeFiles/Kakuro_problem.dir
+C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Evolutionary and Logic-based AI/2/Kakuro problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Evolutionary and Logic-based AI/2/Kakuro problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
