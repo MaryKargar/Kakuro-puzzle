@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\nkamca\OneDrive - Wiener Stadtwerke\Desktop\MAI\Advanced Programming\evol\galib" -B "C:\Users\nkamca\OneDrive - Wiener Stadtwerke\Desktop\MAI\Advanced Programming\evol\galib\cmake-build-debug"
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/mingw32/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (6.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Advanced Programming/evol/galib/cmake-build-debug

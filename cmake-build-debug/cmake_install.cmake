@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Evolutionary and Logic-based AI/Kakuro
+# Install script for directory: C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/Kakuro-puzzle
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Evolutionary and Logic-based AI/Kakuro/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/Kakuro-puzzle/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

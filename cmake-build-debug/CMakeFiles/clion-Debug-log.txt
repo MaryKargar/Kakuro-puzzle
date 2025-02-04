@@ -1,6 +1,7 @@
-"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "C:\Users\nkamca\OneDrive - Wiener Stadtwerke\Desktop\MAI\Evolutionary and Logic-based AI\Kakuro" -B "C:\Users\nkamca\OneDrive - Wiener Stadtwerke\Desktop\MAI\Evolutionary and Logic-based AI\Kakuro\cmake-build-debug"
--- GaLib Path: C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Evolutionary and Logic-based AI/galib
--- GaLib Library Path: C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Evolutionary and Logic-based AI/galib/cmake-build-debug/libgalib.a
--- Configuring done (0.2s)
--- Generating done (0.1s)
--- Build files have been written to: C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Evolutionary and Logic-based AI/Kakuro/cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "C:\Users\nkamca\OneDrive - Wiener Stadtwerke\Desktop\Kakuro-puzzle" -B "C:\Users\nkamca\OneDrive - Wiener Stadtwerke\Desktop\Kakuro-puzzle\cmake-build-debug"
+CMake Error at CMakeLists.txt:48:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "README.md".
+
+
+-- Configuring incomplete, errors occurred!

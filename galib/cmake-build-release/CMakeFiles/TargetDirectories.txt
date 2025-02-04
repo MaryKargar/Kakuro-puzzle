@@ -1,0 +1,7 @@
+C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Advanced Programming/evol/galib/cmake-build-release/CMakeFiles/galib.dir
+C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Advanced Programming/evol/galib/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Advanced Programming/evol/galib/cmake-build-release/CMakeFiles/rebuild_cache.dir
+C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Advanced Programming/evol/galib/cmake-build-release/CMakeFiles/list_install_components.dir
+C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Advanced Programming/evol/galib/cmake-build-release/CMakeFiles/install.dir
+C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Advanced Programming/evol/galib/cmake-build-release/CMakeFiles/install/local.dir
+C:/Users/nkamca/OneDrive - Wiener Stadtwerke/Desktop/MAI/Advanced Programming/evol/galib/cmake-build-release/CMakeFiles/install/strip.dir
